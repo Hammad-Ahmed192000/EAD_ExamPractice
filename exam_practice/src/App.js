@@ -1,6 +1,7 @@
 import './App.css';
 import MyButton from './Components/MyButton';
 import MyTextbox from './Components/MyTextbox';
+import MyTextbox2 from './Components/MyTextbox2';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       </h1>
       <MyButton/>
       <MyTextbox/>
+      <MyTextbox2/>
     </div>
   );
 }
